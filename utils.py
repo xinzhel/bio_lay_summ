@@ -24,3 +24,4 @@ def read_instances(file_path):
     print("Read data from : ", file_path)
     print("The number of data: ", len(lst))
     return lst
+
