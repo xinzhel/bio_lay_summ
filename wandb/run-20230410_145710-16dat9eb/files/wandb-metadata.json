@@ -1,0 +1,34 @@
+{
+    "os": "Linux-5.14.0-1059-oem-x86_64-with-debian-bullseye-sid",
+    "python": "3.7.9",
+    "heartbeatAt": "2023-04-10T04:57:14.104200",
+    "startedAt": "2023-04-10T04:57:10.192124",
+    "docker": null,
+    "gpu": "NVIDIA GeForce RTX 3080 Laptop GPU",
+    "gpu_count": 1,
+    "cpu_count": 16,
+    "cuda": null,
+    "args": [
+        "--ip=127.0.0.1",
+        "--stdin=9008",
+        "--control=9006",
+        "--hb=9005",
+        "--Session.signature_scheme=\"hmac-sha256\"",
+        "--Session.key=b\"d562ed46-aaaf-4360-8a43-526238b5f8ce\"",
+        "--shell=9007",
+        "--transport=\"tcp\"",
+        "--iopub=9009",
+        "--f=/home/xinzhe/.local/share/jupyter/runtime/kernel-v2-40370rJzjaJUJtP6.json"
+    ],
+    "state": "running",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "git@github.com:xinzhel/bio_lay_summ.git",
+        "commit": "6da1b694565478e67aa57a01f2fb1cca48eeafec"
+    },
+    "email": "sergioli212@outlook.com",
+    "root": "/home/xinzhe/git_repo/bio_lay_summ",
+    "host": "xinzhe-ThinkPad-P1-Gen-4i",
+    "username": "xinzhe",
+    "executable": "/home/xinzhe/miniconda3/envs/baseline/bin/python"
+}

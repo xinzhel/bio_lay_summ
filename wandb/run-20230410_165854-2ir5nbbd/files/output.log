@@ -1,0 +1,863 @@
+
+0it [00:00, ?it/s]
+Before scheduler: lr =  3e-05
+
+2it [00:02,  1.52s/it]
+Before scheduler: lr =  2.9944852941176472e-05
+
+3it [00:04,  1.48s/it]
+Before scheduler: lr =  2.9889705882352944e-05
+After scheduler: lr =  2.9834558823529415e-05
+Before scheduler: lr =  2.9834558823529415e-05
+After scheduler: lr =  2.9779411764705887e-05
+Before scheduler: lr =  2.9779411764705887e-05
+
+5it [00:07,  1.44s/it]
+Before scheduler: lr =  2.9724264705882355e-05
+
+
+8it [00:11,  1.35s/it]
+Before scheduler: lr =  2.9669117647058823e-05
+After scheduler: lr =  2.9613970588235294e-05
+Before scheduler: lr =  2.9613970588235294e-05
+
+9it [00:12,  1.33s/it]
+Before scheduler: lr =  2.9558823529411766e-05
+After scheduler: lr =  2.950367647058823e-05
+Before scheduler: lr =  2.950367647058823e-05
+After scheduler: lr =  2.94485294117647e-05
+Before scheduler: lr =  2.94485294117647e-05
+
+
+13it [00:17,  1.30s/it]
+Before scheduler: lr =  2.9393382352941173e-05
+After scheduler: lr =  2.9338235294117644e-05
+Before scheduler: lr =  2.9338235294117644e-05
+
+14it [00:18,  1.31s/it]
+Before scheduler: lr =  2.9283088235294116e-05
+
+16it [00:21,  1.29s/it]
+Before scheduler: lr =  2.9227941176470587e-05
+After scheduler: lr =  2.917279411764706e-05
+Before scheduler: lr =  2.917279411764706e-05
+
+17it [00:22,  1.28s/it]
+Before scheduler: lr =  2.911764705882353e-05
+
+19it [00:25,  1.28s/it]
+Before scheduler: lr =  2.90625e-05
+After scheduler: lr =  2.9007352941176473e-05
+Before scheduler: lr =  2.9007352941176473e-05
+
+20it [00:26,  1.26s/it]
+Before scheduler: lr =  2.8952205882352945e-05
+
+22it [00:29,  1.26s/it]
+Before scheduler: lr =  2.8897058823529416e-05
+After scheduler: lr =  2.8841911764705887e-05
+Before scheduler: lr =  2.8841911764705887e-05
+
+24it [00:31,  1.28s/it]
+Before scheduler: lr =  2.878676470588236e-05
+After scheduler: lr =  2.873161764705883e-05
+Before scheduler: lr =  2.873161764705883e-05
+
+25it [00:32,  1.29s/it]
+Before scheduler: lr =  2.8676470588235302e-05
+After scheduler: lr =  2.8621323529411773e-05
+Before scheduler: lr =  2.8621323529411773e-05
+After scheduler: lr =  2.856617647058824e-05
+Before scheduler: lr =  2.856617647058824e-05
+
+
+28it [00:36,  1.27s/it]
+Before scheduler: lr =  2.8511029411764713e-05
+After scheduler: lr =  2.845588235294118e-05
+Before scheduler: lr =  2.845588235294118e-05
+After scheduler: lr =  2.8400735294117652e-05
+Before scheduler: lr =  2.8400735294117652e-05
+
+
+31it [00:40,  1.26s/it]
+Before scheduler: lr =  2.8345588235294124e-05
+After scheduler: lr =  2.8290441176470595e-05
+Before scheduler: lr =  2.8290441176470595e-05
+After scheduler: lr =  2.8235294117647067e-05
+Before scheduler: lr =  2.8235294117647067e-05
+
+
+35it [00:45,  1.27s/it]
+Before scheduler: lr =  2.8180147058823538e-05
+After scheduler: lr =  2.812500000000001e-05
+Before scheduler: lr =  2.812500000000001e-05
+After scheduler: lr =  2.806985294117648e-05
+Before scheduler: lr =  2.806985294117648e-05
+
+36it [00:46,  1.27s/it]
+Before scheduler: lr =  2.8014705882352952e-05
+After scheduler: lr =  2.7959558823529424e-05
+Before scheduler: lr =  2.7959558823529424e-05
+
+38it [00:49,  1.27s/it]
+Before scheduler: lr =  2.7904411764705895e-05
+
+
+41it [00:53,  1.28s/it]
+Before scheduler: lr =  2.7849264705882367e-05
+After scheduler: lr =  2.7794117647058838e-05
+Before scheduler: lr =  2.7794117647058838e-05
+After scheduler: lr =  2.773897058823531e-05
+Before scheduler: lr =  2.773897058823531e-05
+After scheduler: lr =  2.768382352941178e-05
+Before scheduler: lr =  2.768382352941178e-05
+
+
+44it [00:57,  1.28s/it]
+Before scheduler: lr =  2.762867647058825e-05
+
+46it [00:59,  1.30s/it]
+Before scheduler: lr =  2.757352941176472e-05
+After scheduler: lr =  2.7518382352941192e-05
+Before scheduler: lr =  2.7518382352941192e-05
+
+47it [01:00,  1.30s/it]
+Before scheduler: lr =  2.7463235294117663e-05
+
+49it [01:03,  1.30s/it]
+Before scheduler: lr =  2.7408088235294135e-05
+After scheduler: lr =  2.7352941176470606e-05
+Before scheduler: lr =  2.7352941176470606e-05
+
+50it [01:04,  1.31s/it]
+Before scheduler: lr =  2.7297794117647078e-05
+
+52it [01:07,  1.28s/it]
+Before scheduler: lr =  2.724264705882355e-05
+After scheduler: lr =  2.718750000000002e-05
+Before scheduler: lr =  2.718750000000002e-05
+After scheduler: lr =  2.7132352941176492e-05
+Before scheduler: lr =  2.7132352941176492e-05
+After scheduler: lr =  2.707720588235296e-05
+Before scheduler: lr =  2.707720588235296e-05
+
+54it [01:10,  1.30s/it]
+Before scheduler: lr =  2.7022058823529428e-05
+
+55it [01:11,  1.30s/it]
+Before scheduler: lr =  2.69669117647059e-05
+After scheduler: lr =  2.691176470588237e-05
+Before scheduler: lr =  2.691176470588237e-05
+
+
+58it [01:15,  1.28s/it]
+Before scheduler: lr =  2.6856617647058842e-05
+
+60it [01:17,  1.30s/it]
+Before scheduler: lr =  2.6801470588235314e-05
+After scheduler: lr =  2.6746323529411782e-05
+Before scheduler: lr =  2.6746323529411782e-05
+After scheduler: lr =  2.669117647058825e-05
+Before scheduler: lr =  2.669117647058825e-05
+
+61it [01:19,  1.29s/it]
+Before scheduler: lr =  2.663602941176472e-05
+After scheduler: lr =  2.658088235294119e-05
+Before scheduler: lr =  2.658088235294119e-05
+
+63it [01:21,  1.29s/it]
+Before scheduler: lr =  2.652573529411766e-05
+
+64it [01:22,  1.29s/it]
+Before scheduler: lr =  2.6470588235294132e-05
+After scheduler: lr =  2.6415441176470604e-05
+Before scheduler: lr =  2.6415441176470604e-05
+
+
+67it [01:26,  1.32s/it]
+Before scheduler: lr =  2.6360294117647075e-05
+
+69it [01:29,  1.31s/it]
+Before scheduler: lr =  2.6305147058823547e-05
+After scheduler: lr =  2.6250000000000015e-05
+Before scheduler: lr =  2.6250000000000015e-05
+
+70it [01:30,  1.30s/it]
+Before scheduler: lr =  2.6194852941176486e-05
+
+72it [01:33,  1.32s/it]
+Before scheduler: lr =  2.6139705882352958e-05
+After scheduler: lr =  2.608455882352943e-05
+Before scheduler: lr =  2.608455882352943e-05
+
+73it [01:34,  1.32s/it]
+Before scheduler: lr =  2.60294117647059e-05
+
+75it [01:37,  1.36s/it]
+Before scheduler: lr =  2.5974264705882372e-05
+After scheduler: lr =  2.5919117647058843e-05
+Before scheduler: lr =  2.5919117647058843e-05
+
+76it [01:38,  1.33s/it]
+Before scheduler: lr =  2.5863970588235308e-05
+
+78it [01:41,  1.36s/it]
+Before scheduler: lr =  2.5808823529411783e-05
+After scheduler: lr =  2.575367647058825e-05
+Before scheduler: lr =  2.575367647058825e-05
+
+79it [01:42,  1.36s/it]
+Before scheduler: lr =  2.5698529411764722e-05
+After scheduler: lr =  2.564338235294119e-05
+Before scheduler: lr =  2.564338235294119e-05
+After scheduler: lr =  2.558823529411766e-05
+Before scheduler: lr =  2.558823529411766e-05
+
+
+82it [01:47,  1.38s/it]
+Before scheduler: lr =  2.5533088235294126e-05
+After scheduler: lr =  2.5477941176470598e-05
+Before scheduler: lr =  2.5477941176470598e-05
+
+83it [01:48,  1.43s/it]
+Before scheduler: lr =  2.542279411764707e-05
+After scheduler: lr =  2.536764705882354e-05
+Before scheduler: lr =  2.536764705882354e-05
+
+85it [01:51,  1.45s/it]
+Before scheduler: lr =  2.5312500000000012e-05
+
+86it [01:53,  1.49s/it]
+Before scheduler: lr =  2.5257352941176484e-05
+
+87it [01:54,  1.47s/it]
+Before scheduler: lr =  2.5202205882352955e-05
+After scheduler: lr =  2.5147058823529427e-05
+Before scheduler: lr =  2.5147058823529427e-05
+
+89it [01:57,  1.50s/it]
+Before scheduler: lr =  2.5091911764705898e-05
+
+
+91it [02:00,  1.51s/it]
+Before scheduler: lr =  2.503676470588237e-05
+
+93it [02:03,  1.50s/it]
+Before scheduler: lr =  2.498161764705884e-05
+After scheduler: lr =  2.492647058823531e-05
+Before scheduler: lr =  2.492647058823531e-05
+
+94it [02:05,  1.52s/it]
+Before scheduler: lr =  2.4871323529411784e-05
+After scheduler: lr =  2.4816176470588252e-05
+Before scheduler: lr =  2.4816176470588252e-05
+
+
+96it [02:08,  1.54s/it]
+Before scheduler: lr =  2.4761029411764723e-05
+
+98it [02:11,  1.54s/it]
+Before scheduler: lr =  2.470588235294119e-05
+After scheduler: lr =  2.465073529411766e-05
+Before scheduler: lr =  2.465073529411766e-05
+
+99it [02:13,  1.55s/it]
+Before scheduler: lr =  2.4595588235294127e-05
+
+100it [02:14,  1.55s/it]
+Before scheduler: lr =  2.45404411764706e-05
+After scheduler: lr =  2.448529411764707e-05
+Before scheduler: lr =  2.448529411764707e-05
+After scheduler: lr =  2.443014705882354e-05
+Before scheduler: lr =  2.443014705882354e-05
+
+
+103it [02:19,  1.58s/it]
+Before scheduler: lr =  2.4375000000000013e-05
+
+104it [02:20,  1.59s/it]
+Before scheduler: lr =  2.4319852941176485e-05
+After scheduler: lr =  2.4264705882352953e-05
+Before scheduler: lr =  2.4264705882352953e-05
+After scheduler: lr =  2.420955882352942e-05
+Before scheduler: lr =  2.420955882352942e-05
+
+106it [02:24,  1.56s/it]
+Before scheduler: lr =  2.4154411764705892e-05
+
+
+108it [02:27,  1.54s/it]
+Before scheduler: lr =  2.4099264705882364e-05
+After scheduler: lr =  2.4044117647058835e-05
+Before scheduler: lr =  2.4044117647058835e-05
+
+
+111it [02:31,  1.56s/it]
+Before scheduler: lr =  2.3988970588235303e-05
+After scheduler: lr =  2.3933823529411778e-05
+Before scheduler: lr =  2.3933823529411778e-05
+After scheduler: lr =  2.3878676470588246e-05
+Before scheduler: lr =  2.3878676470588246e-05
+
+112it [02:33,  1.55s/it]
+Before scheduler: lr =  2.382352941176472e-05
+
+113it [02:34,  1.53s/it]
+Before scheduler: lr =  2.3768382352941185e-05
+After scheduler: lr =  2.3713235294117657e-05
+Before scheduler: lr =  2.3713235294117657e-05
+
+115it [02:37,  1.52s/it]
+Before scheduler: lr =  2.3658088235294128e-05
+
+116it [02:39,  1.52s/it]
+Before scheduler: lr =  2.36029411764706e-05
+
+117it [02:40,  1.53s/it]
+Before scheduler: lr =  2.354779411764707e-05
+
+119it [02:44,  1.54s/it]
+Before scheduler: lr =  2.3492647058823543e-05
+After scheduler: lr =  2.3437500000000014e-05
+Before scheduler: lr =  2.3437500000000014e-05
+
+
+121it [02:47,  1.54s/it]
+Before scheduler: lr =  2.3382352941176485e-05
+
+122it [02:48,  1.60s/it]
+Before scheduler: lr =  2.3327205882352957e-05
+
+124it [02:52,  1.60s/it]
+Before scheduler: lr =  2.327205882352943e-05
+After scheduler: lr =  2.32169117647059e-05
+Before scheduler: lr =  2.32169117647059e-05
+After scheduler: lr =  2.316176470588237e-05
+Before scheduler: lr =  2.316176470588237e-05
+
+125it [02:53,  1.61s/it]
+Before scheduler: lr =  2.3106617647058843e-05
+
+
+127it [02:57,  1.67s/it]
+Before scheduler: lr =  2.305147058823531e-05
+
+128it [02:58,  1.67s/it]
+Before scheduler: lr =  2.2996323529411786e-05
+
+129it [03:00,  1.69s/it]
+Before scheduler: lr =  2.2941176470588254e-05
+After scheduler: lr =  2.288602941176473e-05
+Before scheduler: lr =  2.288602941176473e-05
+
+130it [03:02,  1.79s/it]
+Before scheduler: lr =  2.2830882352941193e-05
+After scheduler: lr =  2.2775735294117665e-05
+Before scheduler: lr =  2.2775735294117665e-05
+
+
+133it [03:07,  1.74s/it]
+Before scheduler: lr =  2.2720588235294136e-05
+
+134it [03:09,  1.75s/it]
+Before scheduler: lr =  2.2665441176470607e-05
+
+135it [03:11,  1.73s/it]
+Before scheduler: lr =  2.261029411764708e-05
+
+136it [03:13,  1.78s/it]
+Before scheduler: lr =  2.255514705882355e-05
+After scheduler: lr =  2.2500000000000022e-05
+Before scheduler: lr =  2.2500000000000022e-05
+
+137it [03:15,  1.85s/it]
+Before scheduler: lr =  2.2444852941176493e-05
+
+138it [03:17,  1.93s/it]
+Before scheduler: lr =  2.2389705882352965e-05
+
+139it [03:19,  1.93s/it]
+Before scheduler: lr =  2.2334558823529436e-05
+
+140it [03:21,  2.06s/it]
+Before scheduler: lr =  2.2279411764705908e-05
+
+141it [03:23,  2.06s/it]
+Before scheduler: lr =  2.2224264705882376e-05
+
+142it [03:25,  2.06s/it]
+Before scheduler: lr =  2.216911764705885e-05
+
+
+144it [03:29,  2.07s/it]
+Before scheduler: lr =  2.211397058823532e-05
+
+145it [03:32,  2.16s/it]
+Before scheduler: lr =  2.2058823529411793e-05
+
+146it [03:34,  2.09s/it]
+Before scheduler: lr =  2.200367647058826e-05
+
+147it [03:36,  2.06s/it]
+Before scheduler: lr =  2.1948529411764736e-05
+
+148it [03:38,  2.07s/it]
+Before scheduler: lr =  2.1893382352941204e-05
+After scheduler: lr =  2.183823529411768e-05
+Before scheduler: lr =  2.183823529411768e-05
+
+149it [03:40,  2.18s/it]
+Before scheduler: lr =  2.1783088235294147e-05
+
+
+151it [03:45,  2.21s/it]
+Before scheduler: lr =  2.172794117647062e-05
+
+152it [03:47,  2.17s/it]
+Before scheduler: lr =  2.167279411764709e-05
+
+153it [03:49,  2.10s/it]
+Before scheduler: lr =  2.161764705882356e-05
+
+154it [03:51,  2.17s/it]
+Before scheduler: lr =  2.1562500000000033e-05
+
+155it [03:53,  2.12s/it]
+Before scheduler: lr =  2.15073529411765e-05
+
+156it [03:56,  2.25s/it]
+Before scheduler: lr =  2.1452205882352972e-05
+
+157it [03:57,  2.13s/it]
+Before scheduler: lr =  2.1397058823529444e-05
+
+158it [04:00,  2.30s/it]
+Before scheduler: lr =  2.1341911764705915e-05
+
+159it [04:03,  2.35s/it]
+Before scheduler: lr =  2.1286764705882383e-05
+After scheduler: lr =  2.1231617647058858e-05
+Before scheduler: lr =  2.1231617647058858e-05
+
+160it [04:04,  2.23s/it]
+Before scheduler: lr =  2.1176470588235326e-05
+
+161it [04:07,  2.22s/it]
+Before scheduler: lr =  2.11213235294118e-05
+
+
+163it [04:11,  2.28s/it]
+Before scheduler: lr =  2.106617647058827e-05
+After scheduler: lr =  2.1011029411764744e-05
+Before scheduler: lr =  2.1011029411764744e-05
+
+
+165it [04:17,  2.54s/it]
+Before scheduler: lr =  2.0955882352941212e-05
+After scheduler: lr =  2.0900735294117687e-05
+Before scheduler: lr =  2.0900735294117687e-05
+
+166it [04:19,  2.42s/it]
+Before scheduler: lr =  2.0845588235294155e-05
+
+167it [04:21,  2.32s/it]
+Before scheduler: lr =  2.0790441176470626e-05
+
+168it [04:24,  2.41s/it]
+Before scheduler: lr =  2.0735294117647098e-05
+
+
+170it [04:29,  2.57s/it]
+Before scheduler: lr =  2.068014705882357e-05
+
+171it [04:32,  2.60s/it]
+Before scheduler: lr =  2.0625000000000037e-05
+
+172it [04:34,  2.42s/it]
+Before scheduler: lr =  2.056985294117651e-05
+
+173it [04:37,  2.55s/it]
+Before scheduler: lr =  2.051470588235298e-05
+After scheduler: lr =  2.045955882352945e-05
+Before scheduler: lr =  2.045955882352945e-05
+
+174it [04:39,  2.54s/it]
+Before scheduler: lr =  2.0404411764705923e-05
+
+175it [04:41,  2.42s/it]
+Before scheduler: lr =  2.034926470588239e-05
+
+176it [04:44,  2.45s/it]
+Before scheduler: lr =  2.0294117647058866e-05
+
+
+178it [04:50,  2.64s/it]
+Before scheduler: lr =  2.0238970588235334e-05
+
+179it [04:53,  2.76s/it]
+Before scheduler: lr =  2.018382352941181e-05
+
+180it [04:55,  2.73s/it]
+Before scheduler: lr =  2.0128676470588277e-05
+
+181it [04:58,  2.61s/it]
+Before scheduler: lr =  2.0073529411764748e-05
+
+182it [05:00,  2.65s/it]
+Before scheduler: lr =  2.0018382352941216e-05
+
+183it [05:03,  2.69s/it]
+Before scheduler: lr =  1.996323529411769e-05
+
+184it [05:06,  2.70s/it]
+Before scheduler: lr =  1.990808823529416e-05
+After scheduler: lr =  1.985294117647063e-05
+Before scheduler: lr =  1.985294117647063e-05
+
+185it [05:09,  2.73s/it]
+Before scheduler: lr =  1.9797794117647102e-05
+
+
+187it [05:14,  2.64s/it]
+Before scheduler: lr =  1.9742647058823573e-05
+
+188it [05:16,  2.61s/it]
+Before scheduler: lr =  1.9687500000000045e-05
+
+189it [05:19,  2.68s/it]
+Before scheduler: lr =  1.9632352941176516e-05
+After scheduler: lr =  1.9577205882352988e-05
+Before scheduler: lr =  1.9577205882352988e-05
+
+
+191it [05:24,  2.54s/it]
+Before scheduler: lr =  1.952205882352946e-05
+After scheduler: lr =  1.946691176470593e-05
+Before scheduler: lr =  1.946691176470593e-05
+
+192it [05:27,  2.64s/it]
+Before scheduler: lr =  1.94117647058824e-05
+
+193it [05:30,  2.80s/it]
+Before scheduler: lr =  1.9356617647058874e-05
+
+
+195it [05:37,  3.03s/it]
+Before scheduler: lr =  1.930147058823534e-05
+After scheduler: lr =  1.9246323529411816e-05
+Before scheduler: lr =  1.9246323529411816e-05
+
+
+197it [05:42,  2.89s/it]
+Before scheduler: lr =  1.919117647058828e-05
+
+198it [05:45,  2.99s/it]
+Before scheduler: lr =  1.9136029411764756e-05
+After scheduler: lr =  1.9080882352941224e-05
+Before scheduler: lr =  1.9080882352941224e-05
+
+
+200it [05:51,  2.91s/it]
+Before scheduler: lr =  1.90257352941177e-05
+After scheduler: lr =  1.8970588235294167e-05
+Before scheduler: lr =  1.8970588235294167e-05
+
+
+202it [05:57,  2.94s/it]
+Before scheduler: lr =  1.8915441176470638e-05
+After scheduler: lr =  1.886029411764711e-05
+Before scheduler: lr =  1.886029411764711e-05
+
+
+204it [06:04,  3.15s/it]
+Before scheduler: lr =  1.880514705882358e-05
+
+205it [06:07,  3.18s/it]
+Before scheduler: lr =  1.8750000000000053e-05
+After scheduler: lr =  1.8694852941176524e-05
+Before scheduler: lr =  1.8694852941176524e-05
+
+
+207it [06:13,  3.20s/it]
+Before scheduler: lr =  1.8639705882352992e-05
+After scheduler: lr =  1.8584558823529463e-05
+Before scheduler: lr =  1.8584558823529463e-05
+
+
+209it [06:20,  3.14s/it]
+Before scheduler: lr =  1.8529411764705935e-05
+After scheduler: lr =  1.8474264705882403e-05
+Before scheduler: lr =  1.8474264705882403e-05
+
+210it [06:22,  3.05s/it]
+Before scheduler: lr =  1.8419117647058878e-05
+
+211it [06:25,  3.01s/it]
+Before scheduler: lr =  1.8363970588235346e-05
+
+
+213it [06:33,  3.30s/it]
+Before scheduler: lr =  1.830882352941182e-05
+After scheduler: lr =  1.825367647058829e-05
+Before scheduler: lr =  1.825367647058829e-05
+
+214it [06:35,  3.13s/it]
+Before scheduler: lr =  1.8198529411764764e-05
+
+
+216it [06:43,  3.42s/it]
+Before scheduler: lr =  1.814338235294123e-05
+After scheduler: lr =  1.8088235294117706e-05
+Before scheduler: lr =  1.8088235294117706e-05
+
+
+218it [06:49,  3.42s/it]
+Before scheduler: lr =  1.803308823529417e-05
+
+219it [06:53,  3.34s/it]
+Before scheduler: lr =  1.7977941176470643e-05
+After scheduler: lr =  1.7922794117647114e-05
+Before scheduler: lr =  1.7922794117647114e-05
+
+220it [06:56,  3.41s/it]
+Before scheduler: lr =  1.7867647058823585e-05
+
+221it [07:00,  3.39s/it]
+Before scheduler: lr =  1.7812500000000057e-05
+
+222it [07:03,  3.39s/it]
+Before scheduler: lr =  1.775735294117653e-05
+
+
+224it [07:10,  3.39s/it]
+Before scheduler: lr =  1.7702205882353e-05
+
+225it [07:13,  3.28s/it]
+Before scheduler: lr =  1.764705882352947e-05
+
+226it [07:16,  3.33s/it]
+Before scheduler: lr =  1.7591911764705943e-05
+After scheduler: lr =  1.753676470588241e-05
+Before scheduler: lr =  1.753676470588241e-05
+
+227it [07:20,  3.39s/it]
+Before scheduler: lr =  1.7481617647058886e-05
+
+
+229it [07:27,  3.42s/it]
+Before scheduler: lr =  1.7426470588235354e-05
+After scheduler: lr =  1.737132352941183e-05
+Before scheduler: lr =  1.737132352941183e-05
+
+230it [07:30,  3.38s/it]
+Before scheduler: lr =  1.7316176470588296e-05
+
+231it [07:33,  3.37s/it]
+Before scheduler: lr =  1.726102941176477e-05
+
+
+233it [07:40,  3.38s/it]
+Before scheduler: lr =  1.720588235294124e-05
+
+234it [07:43,  3.38s/it]
+Before scheduler: lr =  1.7150735294117714e-05
+After scheduler: lr =  1.7095588235294182e-05
+Before scheduler: lr =  1.7095588235294182e-05
+
+235it [07:47,  3.36s/it]
+Before scheduler: lr =  1.7040441176470654e-05
+
+
+237it [07:54,  3.48s/it]
+Before scheduler: lr =  1.6985294117647125e-05
+After scheduler: lr =  1.6930147058823597e-05
+Before scheduler: lr =  1.6930147058823597e-05
+
+
+239it [08:01,  3.59s/it]
+Before scheduler: lr =  1.6875000000000068e-05
+After scheduler: lr =  1.681985294117654e-05
+Before scheduler: lr =  1.681985294117654e-05
+
+240it [08:05,  3.67s/it]
+Before scheduler: lr =  1.676470588235301e-05
+
+241it [08:09,  3.68s/it]
+Before scheduler: lr =  1.6709558823529482e-05
+
+
+243it [08:17,  3.80s/it]
+Before scheduler: lr =  1.665441176470595e-05
+After scheduler: lr =  1.659926470588242e-05
+Before scheduler: lr =  1.659926470588242e-05
+
+
+245it [08:24,  3.76s/it]
+Before scheduler: lr =  1.6544117647058893e-05
+
+246it [08:28,  3.77s/it]
+Before scheduler: lr =  1.648897058823536e-05
+
+247it [08:32,  3.79s/it]
+Before scheduler: lr =  1.6433823529411836e-05
+
+248it [08:35,  3.79s/it]
+Before scheduler: lr =  1.6378676470588304e-05
+
+249it [08:39,  3.72s/it]
+Before scheduler: lr =  1.632352941176478e-05
+
+250it [08:43,  3.69s/it]
+Before scheduler: lr =  1.6268382352941247e-05
+After scheduler: lr =  1.621323529411772e-05
+Before scheduler: lr =  1.621323529411772e-05
+
+
+252it [08:50,  3.72s/it]
+Before scheduler: lr =  1.6158088235294187e-05
+
+253it [08:54,  3.70s/it]
+Before scheduler: lr =  1.6102941176470658e-05
+After scheduler: lr =  1.604779411764713e-05
+Before scheduler: lr =  1.604779411764713e-05
+
+254it [08:58,  3.80s/it]
+Before scheduler: lr =  1.59926470588236e-05
+
+
+256it [09:05,  3.80s/it]
+Before scheduler: lr =  1.5937500000000072e-05
+After scheduler: lr =  1.5882352941176544e-05
+Before scheduler: lr =  1.5882352941176544e-05
+
+257it [09:09,  3.84s/it]
+Before scheduler: lr =  1.5827205882353015e-05
+
+
+259it [09:17,  3.77s/it]
+Before scheduler: lr =  1.5772058823529487e-05
+
+260it [09:20,  3.68s/it]
+Before scheduler: lr =  1.5716911764705958e-05
+
+261it [09:24,  3.71s/it]
+Before scheduler: lr =  1.5661764705882426e-05
+
+262it [09:28,  3.71s/it]
+Before scheduler: lr =  1.56066176470589e-05
+
+263it [09:31,  3.69s/it]
+Before scheduler: lr =  1.555147058823537e-05
+
+264it [09:35,  3.67s/it]
+Before scheduler: lr =  1.5496323529411844e-05
+
+265it [09:39,  3.67s/it]
+Before scheduler: lr =  1.5441176470588312e-05
+
+266it [09:42,  3.74s/it]
+Before scheduler: lr =  1.5386029411764787e-05
+
+267it [09:46,  3.74s/it]
+Before scheduler: lr =  1.5330882352941255e-05
+
+268it [09:50,  3.65s/it]
+Before scheduler: lr =  1.527573529411773e-05
+
+269it [09:53,  3.66s/it]
+Before scheduler: lr =  1.5220588235294198e-05
+
+270it [09:57,  3.62s/it]
+Before scheduler: lr =  1.5165441176470667e-05
+After scheduler: lr =  1.5110294117647137e-05
+Before scheduler: lr =  1.5110294117647137e-05
+
+
+272it [10:04,  3.58s/it]
+Before scheduler: lr =  1.5055147058823609e-05
+After scheduler: lr =  1.5000000000000078e-05
+Before scheduler: lr =  1.5000000000000078e-05
+
+
+274it [10:11,  3.59s/it]
+Before scheduler: lr =  1.4944852941176548e-05
+After scheduler: lr =  1.488970588235302e-05
+Before scheduler: lr =  1.488970588235302e-05
+
+
+276it [10:19,  3.67s/it]
+Before scheduler: lr =  1.4834558823529491e-05
+
+277it [10:22,  3.71s/it]
+Before scheduler: lr =  1.477941176470596e-05
+After scheduler: lr =  1.4724264705882432e-05
+Before scheduler: lr =  1.4724264705882432e-05
+
+
+279it [10:30,  3.70s/it]
+Before scheduler: lr =  1.4669117647058902e-05
+After scheduler: lr =  1.4613970588235372e-05
+Before scheduler: lr =  1.4613970588235372e-05
+
+280it [10:34,  3.76s/it]
+Before scheduler: lr =  1.4558823529411841e-05
+
+281it [10:37,  3.76s/it]
+Before scheduler: lr =  1.4503676470588308e-05
+
+
+283it [10:45,  3.80s/it]
+Before scheduler: lr =  1.4448529411764777e-05
+After scheduler: lr =  1.4393382352941249e-05
+Before scheduler: lr =  1.4393382352941249e-05
+
+
+285it [10:52,  3.70s/it]
+Before scheduler: lr =  1.4338235294117719e-05
+After scheduler: lr =  1.4283088235294188e-05
+Before scheduler: lr =  1.4283088235294188e-05
+
+286it [10:56,  3.74s/it]
+Before scheduler: lr =  1.4227941176470658e-05
+
+287it [11:00,  3.68s/it]
+Before scheduler: lr =  1.4172794117647128e-05
+
+288it [11:03,  3.69s/it]
+Before scheduler: lr =  1.4117647058823598e-05
+
+
+290it [11:11,  3.76s/it]
+Before scheduler: lr =  1.4062500000000067e-05
+After scheduler: lr =  1.4007352941176537e-05
+Before scheduler: lr =  1.4007352941176537e-05
+
+
+292it [11:18,  3.66s/it]
+Before scheduler: lr =  1.3952205882353007e-05
+
+293it [11:22,  3.66s/it]
+Before scheduler: lr =  1.3897058823529478e-05
+
+294it [11:26,  3.69s/it]
+Before scheduler: lr =  1.3841911764705948e-05
+
+295it [11:29,  3.61s/it]
+Before scheduler: lr =  1.3786764705882418e-05
+
+296it [11:33,  3.59s/it]
+Before scheduler: lr =  1.3731617647058888e-05
+
+297it [11:36,  3.60s/it]
+Before scheduler: lr =  1.3676470588235359e-05
+
+298it [11:40,  3.66s/it]
+Before scheduler: lr =  1.3621323529411829e-05
+
+299it [11:44,  3.64s/it]
+Before scheduler: lr =  1.3566176470588295e-05
+After scheduler: lr =  1.3511029411764767e-05
+Before scheduler: lr =  1.3511029411764767e-05
+
+
+300it [11:49,  2.37s/it]
